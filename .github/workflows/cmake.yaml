@@ -27,4 +27,4 @@ jobs:
       - name: Run test
         run: |
           cd build/Release
-          TinyProject.exe machine.data
+          .\TinyProject.exe machine.data
