@@ -1,0 +1,14 @@
+build
+.vscode
+*.txt
+*.log
+*.aux
+*.out
+*.toc
+*.bbl
+*.blg
+*.dvi
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.bat
